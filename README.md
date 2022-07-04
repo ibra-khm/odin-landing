@@ -1,2 +1,2 @@
 # odin-landing
-super-Simple landing page
+Super-Simple landing page
